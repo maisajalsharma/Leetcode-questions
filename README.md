@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0622-design-circular-queue) |
 | [0946-validate-stack-sequences](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0946-validate-stack-sequences) |
 ## Simulation
@@ -48,5 +49,18 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0622-design-circular-queue) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

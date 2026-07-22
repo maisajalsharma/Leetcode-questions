@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0622-design-circular-queue) |
 | [0946-validate-stack-sequences](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0946-validate-stack-sequences) |
 ## Simulation
 |  |
@@ -36,4 +37,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/maisajalsharma/Leetcode-questions/tree/master/3499-maximize-active-section-with-trade-i) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0622-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->

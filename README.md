@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0622-design-circular-queue) |
 | [0946-validate-stack-sequences](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0946-validate-stack-sequences) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maisajalsharma/Leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/maisajalsharma/Leetcode-questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Simulation
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maisajalsharma/Leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -76,5 +78,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maisajalsharma/Leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/maisajalsharma/Leetcode-questions/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->

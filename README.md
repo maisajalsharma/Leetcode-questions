@@ -80,4 +80,20 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maisajalsharma/Leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/maisajalsharma/Leetcode-questions/tree/master/3536-maximum-product-of-two-digits) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->

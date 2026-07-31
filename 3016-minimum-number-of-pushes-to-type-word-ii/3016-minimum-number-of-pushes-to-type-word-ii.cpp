@@ -18,6 +18,8 @@ public:
 
         while(idx < 26)
         {
+            if(freq[idx] == 0) break;
+
             ans += freq[idx] * i;
 
             if(idx % 8 == 7)

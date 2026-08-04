@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0316-remove-duplicate-letters) |
 | [0946-validate-stack-sequences](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0946-validate-stack-sequences) |
@@ -96,12 +97,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0226-invert-binary-tree) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0226-invert-binary-tree) |

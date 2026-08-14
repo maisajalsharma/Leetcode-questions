@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0946-validate-stack-sequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/maisajalsharma/Leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/maisajalsharma/Leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/maisajalsharma/Leetcode-questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Simulation
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/maisajalsharma/Leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/maisajalsharma/Leetcode-questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/maisajalsharma/Leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/maisajalsharma/Leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/maisajalsharma/Leetcode-questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/maisajalsharma/Leetcode-questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |

@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/maisajalsharma/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/maisajalsharma/Leetcode-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0993-cousins-in-binary-tree](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0993-cousins-in-binary-tree) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0993-cousins-in-binary-tree](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0993-cousins-in-binary-tree) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0993-cousins-in-binary-tree](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0993-cousins-in-binary-tree) |
@@ -201,4 +205,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/maisajalsharma/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
